@@ -1,37 +1,37 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. shashank1401/resume)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Shashank Jaiswal
+title: System Analyst at HDFC Bank
+email: shashankjaiswal.1401@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +91-9871734403
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://linktr.ee/shashank1401
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: shashank140191
+github_username:  shashank1401
+stackoverflow_username: 7859947/shashank-jaiswal
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: shashank140191
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
